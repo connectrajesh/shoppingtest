@@ -8,11 +8,6 @@ import org.junit.jupiter.api.Assertions.*;
 
 public class StepDefinitions {
 
-    @Given("I add four random items to my cart")
-    public void i_add_four_random_items_to_my_cart() {
-        // Write code here that turns the phrase above into concrete actions
-        System.out.println("add items");
-    }
     @When("I view the cart")
     public void i_view_the_cart() {
         // Write code here that turns the phrase above into concrete actions
